@@ -12,4 +12,4 @@ def sorteioAlunos(aluno_sorteado):
     print('Dos 4 alunos, o sorteado foi {}'.format(aluno_sorteado))
     return aluno_sorteado
 
-sorteioAlunos(aluno_sorteado)
+sorteioAlunos(aluno_sorteado)w
