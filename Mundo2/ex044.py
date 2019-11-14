@@ -42,5 +42,3 @@ def valorProduto():
         print(colored('Forma de pagamento inválida!', "red"))
 
 valorProduto()
-
-    
